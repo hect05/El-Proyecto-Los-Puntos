@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Los Puntos📍</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <!-- Contenedor principal -->
+    <div class="container">
+        <!-- Logo centrado en la parte superior -->
+        <div class="">
+            <img src="" alt="Logo" class="logo">
+        </div>
+        
+        <h1>Galería de Imágenes</h1>
+        
+        <!-- Contenedor de las imágenes en columnas de 3 -->
+        <div class="gallery">
+            <!-- Imagen 1 -->
+            <div class="gallery-item">
+                <a href="enlace1.html">
+                    <img src="imagen1.jpg" alt="Descripción de la imagen 1">
+                </a>
+                <p>Descripción de la imagen 1</p>
+            </div>
+
+            <!-- Imagen 2 -->
+            <div class="gallery-item">
+                <a href="enlace2.html">
+                    <img src="imagen2.jpg" alt="Descripción de la imagen 2">
+                </a>
+                <p>Descripción de la imagen 2</p>
+            </div>
+
+            <!-- Imagen 3 -->
+            <div class="gallery-item">
+                <a href="enlace3.html">
+                    <img src="imagen3.jpg" alt="Descripción de la imagen 3">
+                </a>
+                <p>Descripción de la imagen 3</p>
+            </div>
+
+            <!-- Imagen 4 -->
+            <div class="gallery-item">
+                <a href="enlace4.html">
+                    <img src="imagen4.jpg" alt="Descripción de la imagen 4">
+                </a>
+                <p>Descripción de la imagen 4</p>
+            </div>
+
+            <!-- Imagen 5 -->
+            <div class="gallery-item">
+                <a href="enlace5.html">
+                    <img src="imagen5.jpg" alt="Descripción de la imagen 5">
+                </a>
+                <p>Descripción de la imagen 5</p>
+            </div>
+
+            <!-- Imagen 6 -->
+            <div class="gallery-item">
+                <a href="enlace6.html">
+                    <img src="imagen6.jpg" alt="Descripción de la imagen 6">
+                </a>
+                <p>Descripción de la imagen 6</p>
+            </div>
+
+            <!-- Imagen 7 -->
+            <div class="gallery-item">
+                <a href="enlace7.html">
+                    <img src="imagen7.jpg" alt="Descripción de la imagen 7">
+                </a>
+                <p>Descripción de la imagen 7</p>
+            </div>
+
+            <!-- Imagen 8 -->
+            <div class="gallery-item">
+                <a href="enlace8.html">
+                    <img src="imagen8.jpg" alt="Descripción de la imagen 8">
+                </a>
+                <p>Descripción de la imagen 8</p>
+            </div>
+
+            <!-- Imagen 9 -->
+            <div class="gallery-item">
+                <a href="enlace9.html">
+                    <img src="imagen9.jpg" alt="Descripción de la imagen 9">
+                </a>
+                <p>Descripción de la imagen 9</p>
+            </div>
+
+            <!-- Imagen 10 -->
+            <div class="gallery-item">
+                <a href="enlace10.html">
+                    <img src="imagen10.jpg" alt="Descripción de la imagen 10">
+                </a>
+                <p>Descripción de la imagen 10</p>
+            </div>
+
+            <!-- Imagen 11 -->
+            <div class="gallery-item">
+                <a href="enlace11.html">
+                    <img src="imagen11.jpg" alt="Descripción de la imagen 11">
+                </a>
+                <p>Descripción de la imagen 11</p>
+            </div>
+
+            <!-- Imagen 12 -->
+            <div class="gallery-item">
+                <a href="enlace12.html">
+                    <img src="imagen12.jpg" alt="Descripción de la imagen 12">
+                </a>
+                <p>Descripción de la imagen 12</p>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
