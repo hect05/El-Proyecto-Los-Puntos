@@ -1,4 +1,4 @@
- /* Estilos generales */
+
 body {
     margin: 0;
     padding: 0;
@@ -15,7 +15,7 @@ body{s
     background-position: center;
     font-family: sans-serif;
 }
-/* Contenedor principal */
+
 .container {
     display: flex;
     flex-direction: column;
@@ -27,7 +27,7 @@ body{s
     padding: 20px;
 }
 
-/* Menú de navegación */
+
 .menu {
     margin-bottom: 20px;
 }
@@ -52,7 +52,7 @@ body{s
     color: #007BFF;
 }
 
-/* Contenedor del mapa */
+
 .map-container {
     position: relative;
     width: 80%;
